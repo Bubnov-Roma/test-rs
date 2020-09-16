@@ -14,11 +14,7 @@ body{
 	width:100%;
 }
 
-header{
-	padding:10px 25px;
-	background:#DDDDDD;
-	text-align: center
-}
+
 main{
 	padding:20px;
 	background:#aaa;
@@ -27,13 +23,17 @@ footer{
 	padding:10px 25px;
 	background:#DDDDDD;
 	text-align: center
+	color:black;
 }
 
 .avatar { 
 	text-align:center;
 	padding: 10px;
-	display: block;
-	margin: auto;
-	max-width: 100px;
+        display: block;
+        margin: auto;
+        max-width: 100px;
         border-radius: 50%;
+}
+.link{
+	color:ellow;
 }
