@@ -2,7 +2,8 @@
 body{
 	font-family:"Arial", sans-serif;
 	font-size:15px;
-        color:#fff;
+	background: #F2F2F2;
+        color:black;
 	margin:px;
 	padding:0px;
 }
@@ -14,8 +15,8 @@ body{
 }
 
 header{
-	padding:10px 20px;
-	background:#998;
+	padding:10px 25px;
+	background:#DDDDDD;
 	text-align: center
 }
 main{
@@ -23,11 +24,16 @@ main{
 	background:#aaa;
 }
 footer{
-	padding:10px 20px;
-	background:#998;
+	padding:10px 25px;
+	background:#DDDDDD;
 	text-align: center
 }
 
 .avatar { 
-text-align:center;
+	text-align:center;
+	padding: 10px;
+	display: block;
+	margin: auto;
+	max-width: 100px;
+        border-radius: 50%;
 }
