@@ -15,7 +15,7 @@ body{
 
 header{
 	padding:10px 20px;
-	background:#999;
+	background:#998;
 	text-align: center
 }
 main{
@@ -24,10 +24,10 @@ main{
 }
 footer{
 	padding:10px 20px;
-	background:#999;
+	background:#998;
 	text-align: center
 }
 
-.images { 
+.img { 
 text-align:center;
 }
