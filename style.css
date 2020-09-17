@@ -1,4 +1,3 @@
-*{box-sizing:border-box;}
 body{
 	font-family:"Arial", sans-serif;
 	font-size:15px;
@@ -16,24 +15,34 @@ body{
 
 
 main{
-	padding:20px;
+	max-width: 1024px;
+        margin: auto;
+        padding: 10px;
+        border: solid 8px rgba(0.1,0.1,0.1,0.1);
 	background:#aaa;
 }
+
+
 footer{
 	padding:10px 25px;
 	background:#DDDDDD;
 	text-align: center
-	color:black;
 }
 
-.avatar { 
-	text-align:center;
-	padding: 10px;
-        display: block;
-        margin: auto;
-        max-width: 100px;
-        border-radius: 50%;
-}
-.link{
-	color:ellow;
-}
+.img {
+	    text-align:left;
+            padding: 10px;
+            display: block;
+            margin: auto;
+            max-width: 100px;
+            border-radius: 50%;
+        }
+
+header {
+            text-align: center;
+        }
+
+.name {
+            margin: auto;
+            text-align: center;
+       }
