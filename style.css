@@ -6,19 +6,11 @@ body{
 	margin:px;
 	padding:0px;
 }
-.container{
-	max-width:1024px;
-	margin:0 auto;
-	float:center;
-	width:100%;
-}
-
 
 main{
 	max-width: 1024px;
         margin: auto;
         padding: 10px;
-        border: solid 8px rgba(0.1,0.1,0.1,0.1);
 	background:#aaa;
 }
 
@@ -32,7 +24,6 @@ footer{
 .img {
 	    text-align:left;
             padding: 10px;
-            display: block;
             margin: auto;
             max-width: 100px;
             border-radius: 50%;
